@@ -9,20 +9,8 @@ Features
 5. Progress Tracking: Monitor the conversion process with a progress bar and status updates.
 6. Threaded Operations: Perform file operations in the background to keep the UI responsive.
 
-
 Installation
-
-Clone the Repository:
-
-git clone https://github.com/yourusername/guddu-image-converter.git
-cd guddu-image-converter
-Install Dependencies:
-Ensure you have Python installed, then install the required packages:
-
-pip install ttkbootstrap pillow pillow-heif
-Run the Application:
-
-python main.py
+download the Guddu Image Converter.exe from https://github.com/MAMannnan/GUDDU-Image-Converter/blob/main/Guddu%20Image%20Converter.exe and double-click to run it. Your PC may show a warning like 'Don't Run'. In that case, click 'more info' and then 'Run Anyway'. Now, it runs successfully on your computer. 
 
 
 Usage
